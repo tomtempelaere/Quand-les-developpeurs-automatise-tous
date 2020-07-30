@@ -6,7 +6,7 @@ $team = array(
 
     Maureen_ROCHE => 'Intégratrice & développeuse web',
 
-    Gaël RICHARDON => 'Web-marketin & campagne emailing'
+    Gaël RICHARDON => 'Web-marketin & campagne emailing',
 
     Quentin_MAURET => 'Concepteur web & Resp. R&D',
 
