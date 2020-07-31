@@ -1,0 +1,3 @@
+# Lien entre mon stage et ma formation
+
+Heureusement mon bachelor me permet d'être très polyvalent, Même si la profession de développeur web n'est initialement pas respective avec ma formation. Mes quelques cours de code mon permit de découvrir une vraie passion. J'ai donc réussi à obtenir un stage en intégration web. Je peux dorénavant commencer à intégrer le marché du travail en tant que développeur web.
