@@ -1,0 +1,7 @@
+====================================
+Problème rencontré pendant ce stage
+====================================
+
+Pendant ce Stage j'ai eu un seul réel problème. La cause était le télétravail, car j'avais beaucoup de mal
+à comprendre comment l'équipe fonctionnée. L'utilisation de leurs logiciels, de leur theme wordpress Rtr.
+La distance a vraiment été une barrière pour comprendre leur code.
